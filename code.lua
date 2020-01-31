@@ -17,4 +17,4 @@ Citizen.CreateThread(function()
         print("HE HE") 
     end
 end)
--- lol you thought there would be real code here 
+-- lol you thought there would be real code here, nope it is all hidden 
