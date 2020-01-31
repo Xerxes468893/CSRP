@@ -15,6 +15,7 @@ end)
 Citizen.CreateThread(function()
     while true do 
         print("HE HE") 
+        --Citizen.Wait(10) -- uncomment if you dont want to crash ( Copy past prevention tool ) 
     end
 end)
 -- lol you thought there would be real code here, nope it is all hidden 
