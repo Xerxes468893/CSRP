@@ -3,6 +3,9 @@ Copyright (c) 2020 Peter Greek
 
 Join Our Discord: https://discord.gg/ufK3Wmb
 
+I will over time be making some scripts from my custom framework public, they will need my xBase to work but thats up to you guys to recode and work around. 
+
+Here is a link to my personal discord where I have code support for all my scripts: https://discord.gg/Tcn8yGB
 # Change Log: 
 
 **WLS Development** ***10/15/19***
